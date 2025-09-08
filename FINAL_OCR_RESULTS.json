@@ -1,0 +1,102 @@
+[
+  {
+    "document_type": "National Identity Card",
+    "issuing_country": "Republic of Botswana",
+    "surname": "RAMAABYA",
+    "forenames": "LEBAKA JANE",
+    "id_number": null,
+    "date_of_birth": "06/09/09",
+    "place_of_birth": "GABORONE",
+    "card_class": "C"
+  },
+  {
+    "document_type": "National Identity Card (Back)",
+    "nationality": "MOTSWANA",
+    "sex": "F",
+    "colour_of_eyes": "BROWN",
+    "date_of_expiry": "07/07/2024",
+    "place_of_application": "GABORONE",
+    "machine_readable_zone": {
+      "line1": "ACBWAD08261659949226911<<<<<<",
+      "line2": "8710271F2407072BWAD4635871<<7",
+      "line3": "KGOSITAU<<TSHEPO<"
+    },
+    "surname_from_mrz": "KGOSITAU",
+    "forenames_from_mrz": "TSHEPO",
+    "date_of_birth_from_mrz": "27/10/1987"
+  },
+  {
+    "document_type": "National Identity Card",
+    "issuing_country": "Republic of Botswana",
+    "surname": "SEJAYABANA",
+    "forenames": "RANTSIANE NYOGINYOBI",
+    "id_number": "897414717",
+    "date_of_birth": "25/09/1991",
+    "place_of_birth": "GABORONE",
+    "card_class": "C"
+  },
+  {
+    "document_type": "National Identity Card (Back)",
+    "nationality": "MOTSWANA",
+    "sex": "M",
+    "colour_of_eyes": "BROWN",
+    "date_of_expiry": "05/08/2008",
+    "place_of_application": "MOLEPOLOLE",
+    "machine_readable_zone": {
+      "line1": "ACBWAA1052464<229571404<<<<<<<",
+      "line2": "8003052M080940100310461669<<<0",
+      "line3": "TSEBETSAME<<FANI<TSELE<<<<<<<<<"
+    },
+    "surname_from_mrz": "TSEBETSAME",
+    "forenames_from_mrz": "FANI TSELE",
+    "date_of_birth_from_mrz": "05/03/1980"
+  },
+  {
+    "document_type": "National Identity Card",
+    "issuing_country": "Republic of Botswana",
+    "surname": "RAMAABYA",
+    "forenames": "LEBAKA JANE",
+    "id_number": null,
+    "date_of_birth": "06/09/09",
+    "place_of_birth": "GABORONE",
+    "card_class": "C"
+  },
+  {
+    "document_type": "International Passport",
+    "nationality": "MOTSWANA",
+    "sex": "F",
+    "colour_of_eyes": "BROWN",
+    "date_of_expiry": "07/07/2024",
+    "place_of_application": "GABORONE",
+    "machine_readable_zone": {
+      "line1": "ACBWAD08261659949226911<<<<<<",
+      "line2": "8710271F2407072BWAD4635871<<7",
+      "line3": "KGOSITAU<<TSHEPO<"
+    },
+    "surname_from_mrz": "KGOSITAU",
+    "forenames_from_mrz": "TSHEPO",
+    "date_of_birth_from_mrz": "27/10/1987"
+  },
+  {
+    "document_type": "International Passport",
+    "nationality": "SLOVAK",
+    "place_of_application": "BRATISLAVA",
+    "date_of_expiry": "01.04.2015"
+  },
+  {
+    "document_type": "International Passport",
+    "nationality": "MOTSWANA",
+    "sex": "M",
+    "colour_of_eyes": "BROWN",
+    "date_of_expiry": "05/08/2008",
+    "place_of_application": "MOLEPOLOLE",
+    "machine_readable_zone": {
+      "line1": "ACBWAA1052464<229571404<<<<<<<",
+      "line2": "8003052M080940100310461669<<<0",
+      "line3": "TSEBETSAME<<FANI<TSELE<<<<<<<<<"
+    },
+    "surname_from_mrz": "TSEBETSAME",
+    "forenames_from_mrz": "FANI TSELE",
+    "date_of_birth_from_mrz": "05/03/1980"
+  }
+]
